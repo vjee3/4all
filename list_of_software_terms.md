@@ -363,7 +363,7 @@ AWS launched in 2006 from the internal infrastructure that Amazon.com built to h
 
 AWS offers many different tools and solutions for enterprises and software developers that can be used in data centers in up to 190 countries. Groups such as government agencies, education institutions, nonprofits and private organizations can use AWS services.
 
-#How AWS works
+## How AWS works:
 AWS is separated into different services; each can be configured in different ways based on the user's needs. Users should be able to see configuration options and individual server maps for an AWS service.
 
 
