@@ -47,7 +47,7 @@ List of Software Terms
     
 
 ## 10 popular OS commands
-1. **mail** - (mail -s "This mailing service is great" -a From:bhakti.raman@mountblue.io cusat.brdas@gmail.com) To send mail from terminal
+1. **mail** - (mail -s "This mailing service is great" -a From:cusat.brdas@gmail.com) To send mail from terminal
 
 2. **ping -c 10 127.0.0.1 &**  - This command will cause the application to ping its loopback network adapter for 10 seconds
 
